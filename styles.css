@@ -1,1 +1,27 @@
 /*  your css code here. If applicable */
+body{
+background-color: rgb(204, 204, 204);
+}
+h1,h2{
+	text-align: center;
+}
+.player{
+	text-align: center;
+	background-color: rgb(255, 255, 255);
+	width: 400px;
+    margin: 0px 150px;
+	border: 1px solid black;
+    border-radius: 5px;
+}
+.player_one{
+	padding: 10px;
+}
+.songs{
+	list-style-type: none;
+	text-decoration: none;
+}
+.list{
+	background-color: rgb(255, 255, 255);
+	border: 1px solid black;
+    border-radius: 5px;
+}
